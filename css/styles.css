@@ -118,7 +118,7 @@ img {
   letter-spacing: 0.32px;
 }
 
-.header_adress_list_item-link::after{
+.header_nav_list_item-link::after{
   content:'';
   position: absolute;
   left: 0;
