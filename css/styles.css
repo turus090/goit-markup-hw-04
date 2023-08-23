@@ -369,6 +369,40 @@ text-align: center;
 margin-bottom: 8px;
 }
 
+.team_list_item_card_social {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.team_list_item_card_social_item{
+  width: 40px;
+  height: 40px;
+}
+
+.team_list_item_card_social_item_link {
+ width: 100%;
+ height: 100%;
+ background-color: #4d5ae5;
+ border-radius: 50%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ 
+}
+
+.team_list_item_card_social_item_link:hover {
+  background-color: #404bbf;
+}
+
+.team_list_item_card_social_item_link:focus {
+  background-color: #404bbf;
+}
+
+.team_list_item_card_social_item_link-icon{
+  fill: #f4f4fd;
+}
+
 .team_list_item_card-text {
   text-align: center;
   color: var(--slate, #434455);
