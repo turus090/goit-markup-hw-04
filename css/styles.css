@@ -3,7 +3,7 @@
   --ocean: #404bbf;
   --cloud: #f4f4fd;
   --cornflower: #e7e9fc;
-  --white: #fff;
+  --white: #FFFFFF;
   --navyblue: #2e2f42;
   --slate: #434455;
   --gray: #8e8f99;
@@ -613,6 +613,16 @@ margin-bottom: 8px;
   font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+}
+
+.footer_wrapper_social_list{
+  display: flex;
+  gap: 16px;
+}
+
+.footer_wrapper_social_list_item{
+  width: 40px;
+  height: 40px;
 }
 
 .modal {
