@@ -577,6 +577,14 @@ margin-bottom: 8px;
   letter-spacing: 0.32px;
 }
 
+.portfolio_list_item-subtitle:hover{
+  transform: translateY(0%);
+}
+
+.portfolio_list_item-subtitle:focus{
+  transform: translateY(0%);
+}
+
 
 .footer_container{
   display: flex;
