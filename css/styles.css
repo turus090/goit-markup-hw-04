@@ -563,16 +563,14 @@ margin-bottom: 8px;
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.footer {
-  padding: 100px 0;
-  background: var(--navyblue);
-}
+
 
 .footer_container{
   display: flex;
   align-items: baseline;
 }
 .footer_wrapper {
+  margin-right: 120px;
   width: 264px;
 }
 .footer_wrapper_social{
