@@ -431,6 +431,7 @@ margin-bottom: 8px;
   line-height: 1.11;
   color:var(--navyblue);
   margin-bottom: 72px;
+  text-align: center;
 }
 .customers_wrapper_list{
   display: flex;
@@ -566,10 +567,27 @@ margin-bottom: 8px;
   padding: 100px 0;
   background: var(--navyblue);
 }
+
+.footer_container{
+  display: flex;
+  align-items: baseline;
+}
 .footer_wrapper {
   width: 264px;
 }
+.footer_wrapper_social{
+  margin-right: 120px;
+}
 
+.footer_wrapper_social-text{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--white)
+  margin-bottom: 16px; 
+  
+}
 .footer_wrapper-logo {
   display: inline-block;
   margin-bottom: 16px;
