@@ -625,7 +625,7 @@ margin-bottom: 8px;
   height: 40px;
 }
 
-footer_wrapper_social_list_item_link {
+.footer_wrapper_social_list_item_link {
   width: 100%;
   height: 100%;
   background-color: var(--iris);
@@ -635,10 +635,10 @@ footer_wrapper_social_list_item_link {
   transition: background-color  background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-footer_wrapper_social_list_item_link:hover {
+.footer_wrapper_social_list_item_link:hover {
   background-color: #31d0aa;
 }
-footer_wrapper_social_list_item_link:focus{
+.footer_wrapper_social_list_item_link:focus{
   background-color: #31d0aa;
 }
 .footer_wrapper_social_list_item_link-icon{
