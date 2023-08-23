@@ -697,11 +697,13 @@ margin-bottom: 8px;
 .modal_wrapper_btn:hover{
   background-color: #404bbf;
   border: none; 
+  fill: #ffffff
 }
 
 .modal_wrapper_btn:focus{
   background-color: #404bbf;
   border: none; 
+  fill: #ffffff
 }
 
 .modal_wrapper_btn-icon{
