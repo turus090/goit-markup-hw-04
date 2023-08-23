@@ -378,6 +378,7 @@ margin-bottom: 8px;
 .team_list_item_card_social_item{
   width: 40px;
   height: 40px;
+  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .team_list_item_card_social_item_link {
